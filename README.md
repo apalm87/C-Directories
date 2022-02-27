@@ -1,2 +1,2 @@
-# C-Directories
+# Cpp-Directories
 Directory program
